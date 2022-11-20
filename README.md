@@ -1,3 +1,6 @@
+This is based on the tutorial from [Youtube](https://www.youtube.com/watch?v=MJ1vWb1rGwM&t=3341s) where im learning the different phases involved in ML model.
+More detailed explanation of the workflow and docker will be added soon.
+
 # end_to_end_ML_practice
 
 ### dataset we are using is boston housing price prediciton from sklean
